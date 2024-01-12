@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1847/643786b41548f-450x450.png",
+      "title": "Ролл с лососем и шапкой",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 1110,
+      "category": 0,
+      "rating": 4,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1848/6419564edf962-450x450.png",
+      "title": "Филадельфийский",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 1530,
+      "category": 0,
+      "rating": 6,
+      "description": ""
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1888/641955f8eb5e9-450x450.png",
+      "title": "Бансай",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 1050,
+      "category": 1,
+      "rating": 4,
+      "description": ""
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1847/643786b41548f-450x450.png",
+      "title": "лайт",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 240,
+      "category": 2,
+      "rating": 2,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_2044/64d0bd6f6f905-450x450.png",
+      "title": "Калифорния",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 415,
+      "category": 3,
+      "rating": 8,
+      "description": ""
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1852/64195a82ba897-450x450.png",
+      "title": "Мадагаскар",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 2070,
+      "category": 2,
+      "rating": 2,
+      "description": "Бансай (5 шт.), Лава (5 шт.), Филадельфия (10 шт.), Миссури (5 шт.), Чикен Крим (10 шт.), Калифорния (5 шт.), Небраска (5 шт.), Аризона (5 шт.)"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1853/64195ae7a941a-450x450.png",
+      "title": "Немо",
+      "types": [0, 1],
+      "sizes": [20],
+      "price": 825,
+      "category": 1,
+      "rating": 9,
+      "description": "Филадельфия мини (5 шт.), Калифорния мини (5 шт.), Ролл Смак (5 шт.), Ролл Тай (5 шт.)"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_1888/641955f8eb5e9-450x450.png",
+      "title": "Выгодный",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 1050,
+      "category": 4,
+      "rating": 1,
+      "description": "Бансай (5 шт.), Лава (5 шт.), Калифорния (5 шт.), Юта (5 шт.), Миссури (5 шт.), Неаполь (5 шт.)"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_2043/64d0bd46080ba-450x450.png",
+      "title": "Прожорливый ниндзя",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 4079,
+      "category": 5,
+      "rating": 1,
+      "description": "Филадельфия (10шт.), Чикен крим (15шт.) Калифорния (10шт.), Дракон (10шт.), Флорида (10шт.), Ясай маки (10шт.), Юта (15шт.), Валенсия (10шт.), Бостон (5 шт.), Мореман (5шт.)"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://storage.yandexcloud.net/sushi-market/products/product_2045/64d0bd0f993d1-450x450.png",
+      "title": "Довольный самурай",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 1350,
+      "category": 5,
+      "rating": 7,
+      "description": "Филадельфия (5шт.), Калифорния (5шт.), Бансай (5шт.), Лава (5шт.), Чикен крим (10шт.)"
+    }
+  ]
+}
